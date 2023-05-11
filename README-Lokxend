@@ -1,0 +1,28 @@
+# Quick introduction to the fonts
+## Lexend Font Family
+Lexend is a variable typeface with weight axis (Thin to Black) designed to improve reading fluency
+Read more: [Official website - Lexend.com](https://www.lexend.com/)
+
+## Lokxend Font Family
+### Lokxend info
+Lokxend is basically Lexend with 3 glyphs from the alternative set locked in as default. This means you don't need software that supports OTF (Open Type Features) anymore, just download and install this font.
+
+The three modifications:
+**insert image here**
+* Dotted `0`
+* Alt `g`
+* Alt `a`
+
+### Lokxend > Tools used
+* [Opentype Feature Freezer](https://github.com/twardoch/fonttools-opentype-feature-freezer)
+* [FontTools](https://github.com/fonttools/fonttools)
+
+### Lokxend > How to download
+Step 1) Read on font width on [Official website - Lexend.com](https://www.lexend.com/)) 
+Step 2?) Download Lokxend Deca [here] **link**
+Step 2?) If you want a font with more width (based on Lexend exa, giga, mega, ...) look for it in the corresponding folder.
+Step 3) Open the .ttf file and follow the installation wizard.
+Enjoy!
+
+# Disclaimer
+This project exists only to improve compatibility and ease of use for software that doesn't support easily switching to alternative glyphs. Lokxend is completely based on [Lexend](https://www.lexend.com/)) but is in no way related to it; Lokxend  has a different name to avoid confusion and to facilitate finding it (typing `LE` ≠ `LO`).
